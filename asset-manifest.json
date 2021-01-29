@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/simple-social-network/static/css/main.b8cb0002.chunk.css",
+    "main.js": "/simple-social-network/static/js/main.c2b7e6cf.chunk.js",
+    "main.js.map": "/simple-social-network/static/js/main.c2b7e6cf.chunk.js.map",
+    "runtime-main.js": "/simple-social-network/static/js/runtime-main.1d8f94f1.js",
+    "runtime-main.js.map": "/simple-social-network/static/js/runtime-main.1d8f94f1.js.map",
+    "static/js/2.7279bac3.chunk.js": "/simple-social-network/static/js/2.7279bac3.chunk.js",
+    "static/js/2.7279bac3.chunk.js.map": "/simple-social-network/static/js/2.7279bac3.chunk.js.map",
+    "static/css/3.d2161e32.chunk.css": "/simple-social-network/static/css/3.d2161e32.chunk.css",
+    "static/js/3.47710042.chunk.js": "/simple-social-network/static/js/3.47710042.chunk.js",
+    "static/js/3.47710042.chunk.js.map": "/simple-social-network/static/js/3.47710042.chunk.js.map",
+    "static/css/4.c03dd7ab.chunk.css": "/simple-social-network/static/css/4.c03dd7ab.chunk.css",
+    "static/js/4.09599661.chunk.js": "/simple-social-network/static/js/4.09599661.chunk.js",
+    "static/js/4.09599661.chunk.js.map": "/simple-social-network/static/js/4.09599661.chunk.js.map",
+    "static/js/5.24ab5ec6.chunk.js": "/simple-social-network/static/js/5.24ab5ec6.chunk.js",
+    "static/js/5.24ab5ec6.chunk.js.map": "/simple-social-network/static/js/5.24ab5ec6.chunk.js.map",
+    "index.html": "/simple-social-network/index.html",
+    "static/css/3.d2161e32.chunk.css.map": "/simple-social-network/static/css/3.d2161e32.chunk.css.map",
+    "static/css/4.c03dd7ab.chunk.css.map": "/simple-social-network/static/css/4.c03dd7ab.chunk.css.map",
+    "static/css/main.b8cb0002.chunk.css.map": "/simple-social-network/static/css/main.b8cb0002.chunk.css.map",
+    "static/js/2.7279bac3.chunk.js.LICENSE.txt": "/simple-social-network/static/js/2.7279bac3.chunk.js.LICENSE.txt",
+    "static/media/preloader.e88c5d6a.svg": "/simple-social-network/static/media/preloader.e88c5d6a.svg",
+    "static/media/user_icon.png": "/simple-social-network/static/media/user_icon.42126f39.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d8f94f1.js",
+    "static/js/2.7279bac3.chunk.js",
+    "static/css/main.b8cb0002.chunk.css",
+    "static/js/main.c2b7e6cf.chunk.js"
+  ]
+}
