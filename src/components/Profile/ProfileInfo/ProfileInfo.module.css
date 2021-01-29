@@ -1,0 +1,24 @@
+.profileImg{
+    width: 100%;
+    height: 150px;
+    background-size: cover;
+    background-position: 0 70%;
+}
+
+.descriptionBlock{
+    padding: 10px;
+    text-align: center;
+}
+
+.descriptionBlock__image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid #636363;
+}
+
+.descriptionBlock__fullName{
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}

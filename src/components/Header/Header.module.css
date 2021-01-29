@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+    background-color: #232b35;
+    padding: 7px 14px ;
+    align-items: center;
+}
+
+.header img {
+   height: 100%;
+}
+
+.loginBlock{
+    color: #fff;
+}
+
+.loginBlock a{
+    color: #fff;
+}

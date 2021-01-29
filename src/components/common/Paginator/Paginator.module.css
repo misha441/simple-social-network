@@ -1,0 +1,21 @@
+.paginatorWrapper{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    padding: 3px 20px 0;
+}
+.pageNumbersBlock{
+    width: 100%;
+}
+
+.pageNumbers{
+    font-size: 18px;
+    padding: 0px 5px;
+    cursor: pointer;
+    color: #4d57bb;
+    margin: 0 auto;
+}
+.selectedPage{
+    font-weight: 700;
+    color: #000;
+}
